@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C J Justin</h1>
-<h3 align="center">Just another developer from Rourkela</h3>
+<h3 align="center">Just another Mallayali developer</h3>
 
 <p align = "center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjjustin&show_icons=true&theme=tokyonight&layout=compact" alt="cjjustin" />

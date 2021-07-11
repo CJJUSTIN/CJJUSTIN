@@ -10,8 +10,8 @@
 
 - 🔭 I have graduated from **Government College of Engineering, Keonjhar**
 - 🤝 I’m currently working on **my web profile's**
-- 🌱 I’m also hunting **jobs**
-- ⚡ Fun fact **I PLAY A LOT OF RACING GAMES**
+- 🌱 I’m actively look for a **job**
+- ⚡ Fun fact **I PLAY A LOT OF RACING GAMES - **
 
 <img src="https://komarev.com/ghpvc/?username=cjjustin&label=Profile%20views&color=0e75b6&style=for-the-badge" align="center" />
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C J Justin</h1>
-<h3 align="center">Just another Mallu developer</h3>
+<h3 align="center">Just another Junior developer</h3>
 
 <p align = "center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjjustin&show_icons=true&theme=tokyonight&layout=compact" alt="cjjustin" />
@@ -11,7 +11,7 @@
 - 🔭 I have graduated from **Government College of Engineering, Keonjhar**
 - 🤝 I’m currently working on **my web profile's**
 - 🌱 I’m actively look for a **job**
-- ⚡ Fun fact **I LIKE PLAYING RACING ANS SIMULATION GAMES**
+- ⚡ Fun fact **I LIKE PLAYING RACING AND SIMULATION GAMES**
 
 <img src="https://komarev.com/ghpvc/?username=cjjustin&label=Profile%20views&color=0e75b6&style=for-the-badge" align="center" />
 
